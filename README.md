@@ -30,3 +30,6 @@ crypto-app/
 - Currency conversion (USD, INR, EUR)
 - Amount calculator
 - Add crypto logos
+
+#Demo
+<img width="1920" height="1080" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/6198498b-3f20-4460-9182-cb4aafd945ae" />
