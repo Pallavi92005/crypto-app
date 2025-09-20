@@ -32,4 +32,8 @@ crypto-app/
 - Add crypto logos
 
 #Demo
-<img width="1920" height="1080" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/6198498b-3f20-4460-9182-cb4aafd945ae" />
+<img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/ddfae210-a42c-4245-9d7a-b953abfb8529" />
+<img width="1920" height="1080" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/51ef4465-2899-4190-b4e0-678fc88aa45a" />
+<img width="1920" height="1080" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/5f3dbc36-0470-4d7c-b59f-1de1f19d942f" />
+
+
